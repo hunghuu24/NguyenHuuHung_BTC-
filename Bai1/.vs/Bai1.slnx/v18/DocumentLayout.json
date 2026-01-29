@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HUU HUNG\\OneDrive\\M\u00E1y t\u00EDnh\\Bai1\\",
+  "WorkspaceRootPath": "C:\\Test th\u1EED\\NguyenHuuHung_BTC-\\Bai1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59E836FC-74C6-4D12-B733-A1B59E054F7F}|Bai1\\Bai1.csproj|c:\\users\\huu hung\\onedrive\\m\u00E1y t\u00EDnh\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59E836FC-74C6-4D12-B733-A1B59E054F7F}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|c:\\test th\u1EED\\nguyenhuuhung_btc-\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HUU HUNG\\OneDrive\\M\u00E1y t\u00EDnh\\Bai1\\Bai1\\Program.cs",
+              "DocumentMoniker": "C:\\Test th\u1EED\\NguyenHuuHung_BTC-\\Bai1\\Bai1\\Program.cs",
               "RelativeDocumentMoniker": "Bai1\\Program.cs",
-              "ToolTip": "C:\\Users\\HUU HUNG\\OneDrive\\M\u00E1y t\u00EDnh\\Bai1\\Bai1\\Program.cs",
+              "ToolTip": "C:\\Test th\u1EED\\NguyenHuuHung_BTC-\\Bai1\\Bai1\\Program.cs",
               "RelativeToolTip": "Bai1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T01:11:31.044Z",
               "EditorCaption": ""
